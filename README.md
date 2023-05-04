@@ -1,4 +1,4 @@
-##Restaurant Tinder Capstone
+## Restaurant Tinder Capstone
 This was a capstone project completed for [Merit America's](https://meritamerica.org/) Fullstack Java Web Developer Bootcamp - A 31-week intensive program focused on Full Stack Web Application Development, including hands-on 
 coursework in Java Development, Client-Server Programming (SQL + Spring), and Frontend Development (Classic Web + React).  
 
