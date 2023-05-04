@@ -1,4 +1,4 @@
-## Money Transfer Capstone
+##Restaurant Tinder Capstone
 This was a capstone project completed for [Merit America's](https://meritamerica.org/) Fullstack Java Web Developer Bootcamp - A 31-week intensive program focused on Full Stack Web Application Development, including hands-on 
 coursework in Java Development, Client-Server Programming (SQL + Spring), and Frontend Development (Classic Web + React).  
 
@@ -8,7 +8,7 @@ Program Capstone Project 3 of 3.
 This application helps people make a decision which restaurant they should visit based upon their preference. Users can register, login, invite friends to eat at specific restaurants (guest users can vote on selected restaurants), and view restaurant finalists.
 
 ## Table of Contents
-- [Money Transfer Capstone](#money-transfer-capstone)
+- [Restaurant Tinder Capstone](#restaurant-tinder-capstone)
 - [Project Description](#project-description)
 - [Table of Contents](#table-of-contents)
 - [Project Requirements](#project-requirements)
